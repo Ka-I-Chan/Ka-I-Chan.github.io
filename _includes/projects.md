@@ -40,7 +40,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Monitoring and Grading Hemifacial Spasm in Postoperative Rehabilitation</div>
+    <div class="title"><a href="assets/files/HFS.pdf">Monitoring and Grading Hemifacial Spasm in Postoperative Rehabilitation</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
     <div class="periodical">Part of the work is under review in <em>CHI 2024</em></div>
   </div>
