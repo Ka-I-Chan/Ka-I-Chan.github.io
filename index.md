@@ -24,12 +24,6 @@ In my daily life, I have a strong interest in trying various sports, with powerl
 
 <!-- - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">_MacCracken Awards_</a> for outstanding research and activities -->
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-<!-- {% include_relative _includes/talks.md %} -->
-
 <!-- ## Collaboration -->
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
