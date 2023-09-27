@@ -17,7 +17,7 @@
 
   <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
   <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-  <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+  <!-- <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script> -->
 
   <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
     integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
@@ -83,7 +83,7 @@
       {% endif %} -->
 
       
-      
+      <br>
       <div class="social-icons">
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
@@ -92,14 +92,14 @@
         {% endif %}
 
         {% if site.email %}
-        <a style="margin: 0 5px 0 0" href="mailto: {{ site.email }}">
-            <ion-icon name="mail-outline" style="--ionicon-stroke-width: 50px; vertical-align: middle"></ion-icon>
+        <a style="margin: 10px 5px 0 0" href="mailto: {{ site.email }}">
+            <ion-icon name="mail-outline" style="--ionicon-stroke-width: 40px"></ion-icon>
         </a>
         {% endif %}
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem; vertical-align: middle"></i>
+          <i class="ai ai-cv" style="font-size:1.3rem"></i>
         </a>
         {% endif %}
 
