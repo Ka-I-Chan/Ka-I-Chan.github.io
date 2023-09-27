@@ -23,8 +23,7 @@ a.no-color {
   height: 2.4rem;
   width: 2.4rem;
   background-color: transparent;
-  /* color: #57068c !important; */
-  color: #002452 !important;
+  color: #57068c !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.15rem;
@@ -191,8 +190,7 @@ email {
 }
 
 autocolor {
-  /* color: #57068c; } */
-  color: #002452;
+  color: #57068c;
 }
 
 lightonly {
@@ -220,8 +218,7 @@ papertitle {
   }
 
   autocolor {
-    /* color: #ab82c5; } */
-    color: #00245225;
+    color: #ab82c5;
   }
 
   lightonly {
@@ -370,20 +367,17 @@ h1 {
 }
 
 a {
-  /* color: #702b9d; */
-  color: #003880;
+  color: #702b9d;
   text-decoration: none;
 }
 
 a:hover {
-  /* color: #330662; */
-  color: #002452;
+  color: #330662;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    /* color: #ab82c5; */
-    color: #00245225;
+    color: #ab82c5;
   }
 }
 a small {
