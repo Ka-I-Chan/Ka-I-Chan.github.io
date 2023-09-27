@@ -11,8 +11,10 @@ position: Prospective PhD Student
 # affiliation_link: https://www.tsinghua.edu.cn/en/
 # subaffiliation_link: https://gix.tsinghua.edu.cn/en/
 email: ckinicola@gmail.com
-address: Tsinghua University, Beijing 100084, China
-address_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
+# address: Tsinghua University, Beijing 100084, China
+# address_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
+affiliation: Tsinghua University, Beijing 100084, China
+affiliation_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
