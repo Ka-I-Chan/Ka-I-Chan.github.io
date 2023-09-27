@@ -65,6 +65,77 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CHI2024.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Topic Modeling to Explore Financial Behaviors in Bipolar Disorder</div>
+    <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
+    <div>Analyzing legal cases through the Harvard Caselaw Access Project API to extract valuable insights into
+compulsive buying and risk-taking behaviors observed during manic episodes in bipolar disorder.</div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Lookine.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Lookine: Non-Verbal Social Assistance and Learning System for Blind People</div>
+    <div>Lookine is a system for assisting 
+blind individuals in social interactions using visual recognition technology and voice interaction. 
+</div>
+    <div class="links">
+      <a href="assets/files/Lookine.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/LED.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">The Impact and Function of LED Masks on People’s Communication</div>
+    <div>Investigated a potential positive relationship between the use of LED masks and daily conversation effectiveness to find possible assistance to hearing-impaired people. 
+</div>
+    <div class="links">
+      <a href="assets/files/LED.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Color.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">The Influence of Environmental Color on Taste Perception and Appetite </div>
+    <div>Researched the intermodal perception relation between vision (colors) and taste, thereby helping people who suffer from eating disorders build a healthy diet. Received the second-largest funding from the Tsinghua Student Research Plan. 
+</div>
+    <div class="links">
+      <a href="assets/files/Color.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 <br>
 
 </ol>
