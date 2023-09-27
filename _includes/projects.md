@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-<!-- 
+<!--
 <li>
 <div class="pub-row">
 
@@ -28,7 +28,6 @@
 </div>
 </li> -->
 
-
 <li>
 <div class="pub-row">
 
@@ -52,7 +51,7 @@
   </div>
 </div>
 </li>
-  
+
 
 <li>
 <div class="pub-row">
