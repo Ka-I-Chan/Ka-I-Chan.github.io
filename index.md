@@ -28,9 +28,3 @@ In my daily life, I have a strong interest in various sports, with powerlifting 
 - **[Dec. 2020]** Macau Foundation Special Scholarship for Outstanding Academic Performance
 - **[Oct. 2020]** First Class Scholarship for Hong Kong, Macau and Overseas Chinese Students at Tsinghua University
 - **[Dec. 2018 & 2021]** Macau Education Bureau College Scholarship
-
-## Personal Interests
-
-- Sports
-- Music
-- Photography
