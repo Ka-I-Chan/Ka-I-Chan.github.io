@@ -6,6 +6,9 @@ layout: homepage
 
 Hi, my name is Ka I (pronounced "e") Chan. I am a Master's student in [Data Science and Information Technology](https://gix.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I am very grateful to be advised by Prof. [Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en) and Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/) at the [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/). Previously, I graduated magna cum laude from Tsinghua University with a B.S. in [Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/).
 
+im currently for summer research projects...
+<a href="https://saeedabdullah.com/">Saeed Abdullah</a>
+
 My research interest lies in **human-computer interaction (HCI)**, with a specific focus on **health, wellbeing, aging and accessibility**. My research goal is to understand people's needs and challenges, particularly among vulnerable populations, and to design and develop AI-driven systems that empower and enhance people's health and wellbeing.
 
 In my daily life, I have a strong interest in trying various sports, with powerlifting being a particular focus. I'm also passionate about music. I used to play the piano and guitar and was a percussion member in the Tsinghua University Symphonic Band.
