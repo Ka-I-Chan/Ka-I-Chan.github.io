@@ -57,7 +57,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576774">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
     <div class="author">Weiwei Zhang, Jianing Yin, <strong>Ka I Chan</strong>, and etc. </div>
-    <div class="periodical">Under review in the <em>International Journal of Human Computer Studies</em></div>
+    <div class="periodical">Under review in <em>International Journal of Human Computer Studies</em></div>
   </div>
 </div>
 </li>
@@ -71,7 +71,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/Lookine.pdf">Lookine: Non-Verbal Social Assistance and Learning System for Blind People</a></div>
-    <div>Lookine aims to help blind individuals in social interactions through visual recognition technology and voice interaction.
+    <div>Lookine aims to help blind individuals in social interactions through voice interaction and visual recognition technology.
 </div>
   </div>
 </div>
@@ -85,8 +85,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/LED.pdf">The Impact and Function of LED Masks on People’s Communication</a></div>
-    <div>Explored the correlation between LED mask usage and improved daily communication effectiveness, aiming to support individuals with hearing impairments. 
+    <div class="title"><a href="assets/files/LED.pdf">Impact of LED Masks on People’s Communication</a></div>
+    <div>Explored correlation between LED mask usage and improved daily communication effectiveness, aiming to support individuals with hearing impairments. 
 </div>
   </div>
 </div>
@@ -100,7 +100,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/Color.pdf">The Influence of Environmental Color on Taste Perception and Appetite</a></div>
+    <div class="title"><a href="assets/files/Color.pdf">Influence of Environmental Color on Taste Perception</a></div>
     <div>Explored intermodal perception of vision and taste, aiding individuals with eating disorders in forming healthy diets. Received the second-largest funding from Tsinghua Student Research Plan.
     </div>
   </div>
