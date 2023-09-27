@@ -73,13 +73,14 @@
         <h4>{{ site.address }}</h4>
       </a>
       {% endif %}
-      {% if site.email %}
+
+      <!-- {% if site.email %}
       <a href="mailto: {{ site.email }}" style="color:#6d6d6d">
         <email>
           {{ site.email }}
         </email>
       </a>
-      {% endif %}
+      {% endif %} -->
 
 
       <!-- <br> -->
@@ -101,6 +102,14 @@
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>
+        {% endif %}
+
+        {% if site.email %}
+        <a style="margin: 0 5px 0 0" href="mailto: {{ site.email }}">
+          <i class="ai ai-cv" style="font-size:1.3rem;">
+            <ion-icon name="mail-outline"></ion-icon>
+          </i>
         </a>
         {% endif %}
 
@@ -161,9 +170,9 @@
   </script>
   {% endif %}
 
-<!-- <ion-icon name="mail-outline"></ion-icon> -->
-<!-- <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script> -->
+
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
 </body>
 
