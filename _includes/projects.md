@@ -101,7 +101,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/Color.pdf">Influence of Environmental Color on Taste Perception</a></div>
-    <div>Explored intermodal perception of vision and taste, aiding individuals with eating disorders in forming healthy diets. Received the second-largest funding from Tsinghua Student Research Plan.
+    <div>Explored intermodal perception of vision and taste, aiding individuals with eating disorders in forming healthy diets. Received the second-largest funding from <em>Tsinghua Student Research Plan</em>.
     </div>
   </div>
 </div>
