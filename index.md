@@ -10,11 +10,6 @@ My research interest lies in **human-computer interaction (HCI)**, with a specif
 
 In my daily life, I have a strong interest in trying various sports, with powerlifting being a particular focus. I'm also passionate about music. I used to play the piano and guitar and was a percussion member in the Tsinghua University Symphonic Band.
 
-## Working in Progress
-
-- Under review for _CHI 2024_ as the first author
-- Under review for _Internation Journal of Human Computer Studies_ as the third author
-
 {% include_relative _includes/projects.md %}
 
 <!-- ## Collaboration -->
@@ -32,7 +27,7 @@ In my daily life, I have a strong interest in trying various sports, with powerl
 - **[Oct. 2021]** Award of Excellence in Academic Performance at Tsinghua University
 - **[Dec. 2020]** Macau Foundation Special Scholarship for Outstanding Academic Performance
 - **[Oct. 2020]** First Class Scholarship for Hong Kong, Macau and Overseas Chinese Students at Tsinghua University
-- **[Dec. 2019 & 2021]** Macau Education Bureau College Scholarship
+- **[Dec. 2018 & 2021]** Macau Education Bureau College Scholarship
 
 ## Personal Interests
 
