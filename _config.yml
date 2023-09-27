@@ -11,7 +11,7 @@ subaffiliation: Global Innovation Exchange
 affiliation_link: https://www.tsinghua.edu.cn/en/
 subaffiliation_link: https://gix.tsinghua.edu.cn/en/
 email: ckinicola@gmail.com
-address: Lee Shau Kee Science and Technology Building, Tsinghua University Beijing 100084, China
+address: Haidian District, Beijing 100084, China
 address_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
 
 # Search Engine Optimization (SEO)
@@ -30,7 +30,7 @@ cv_link: assets\files\KaIChan_CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/img/avatar.jpg
+avatar: ./assets/img/avatar-1.jpg
 # logo: ./assets/img/logo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
