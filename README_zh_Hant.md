@@ -39,6 +39,15 @@ remote_theme: yaoyao-liu/minimal-light
 
 *首先你需要安裝 [Ruby](https://www.ruby-lang.org/en/) 和 [Jekyll](https://jekyllrb.com/).*
 
+#### Jekyll quick-start instructions 
+~ $ gem install bundler jekyll
+~ $ jekyll new my-awesome-site
+~ $ cd my-awesome-site
+~ $ bundle exec jekyll serve
+# => Now browse to http://localhost:4000
+
+
+
 克隆這個項目:
 
 ```bash

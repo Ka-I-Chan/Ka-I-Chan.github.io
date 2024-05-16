@@ -65,13 +65,11 @@ a.no-color {
   .social-icons a:last-child {
     margin-right: 0;
   }
-
   .social-icons a:hover {
     background-color: transparent;
     color: black;
     transform: scale(1.2);
   }
-
   /*
     .social-icons a:after {
         content: '';
@@ -82,7 +80,7 @@ a.no-color {
         background: transparent;
         transition: width .5s ease, background-color .5s ease;
       }
-      
+
     .social-icons a:hover:after {
         width: 100%;
         background: #a0b0ff;
@@ -138,7 +136,7 @@ a.no-color {
 }
 
 .linkedin span {
-  background-color: #0077b5;
+  background-color: #0077B5;
 }
 
 .github span {
@@ -179,7 +177,7 @@ email {
 }
 
 .icon-button .icon-linkedin {
-  color: #0077b5;
+  color: #0077B5;
 }
 
 .icon-button:hover .icon-twitter,
@@ -216,19 +214,15 @@ papertitle {
     background-color: #404040;
     color: #eee6f3;
   }
-
   autocolor {
     color: #ab82c5;
   }
-
   lightonly {
     visibility: hidden;
   }
-
   darkonly {
     visibility: visible;
   }
-
   papertitle {
     color: #eeeff0;
   }
@@ -325,22 +319,18 @@ h2 {
     color: #404040;
     margin: 0 0 20px;
   }
-
   h4 {
     font-weight: 400;
     color: #d6d6d6;
     margin: 0 0 5px;
   }
-
   h5,
   h6 {
     color: #d6d6d6;
   }
-
   h2 {
     color: #d6d6d6;
   }
-
   email {
     font-size: 14px;
     color: #d6d6d6;
@@ -405,8 +395,7 @@ blockquote {
 
 code,
 pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal,
-    Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color: #333;
 }
 
@@ -442,11 +431,10 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: #3eb7f0;
+    color: rgb(62, 183, 240);
   }
-
   dt {
-    color: #3eb7f0;
+    color: rgb(62, 183, 240);
   }
 }
 img {
@@ -558,12 +546,10 @@ footer {
     display: flex;
     align-items: center;
   }
-
   div.wrapper {
     width: auto;
     margin: 0;
   }
-
   header,
   section,
   footer {
@@ -571,45 +557,37 @@ footer {
     position: static;
     width: auto;
   }
-
   header {
     padding-right: 320px;
   }
-
   section {
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
   }
-
   header a small {
     display: inline;
   }
-
   header ul {
     position: absolute;
     right: 50px;
     top: 52px;
   }
-
   .image.avatar img {
     border-radius: 20%;
     width: 180px;
     padding: 5px;
   }
-
   .image.logo img {
     border-radius: 0%;
     width: 117px;
     padding: 3px;
     margin-top: -20px;
   }
-
   #head1o2 {
     visibility: hidden;
   }
-
   #head2o2 {
     visibility: hidden;
   }
@@ -619,16 +597,13 @@ footer {
     word-wrap: break-word;
     padding: 15px;
   }
-
   .pub-row {
     display: flex;
     align-items: center;
   }
-
   header {
     padding: 0;
   }
-
   pre,
   code {
     word-wrap: normal;
@@ -639,30 +614,24 @@ footer {
     display: block;
     align-items: center;
   }
-
   body {
     padding: 15px;
   }
-
   header ul {
     width: 99%;
   }
-
   header li,
   header ul li + li + li {
     width: 33%;
   }
-
   .image.avatar img {
     border-radius: 20%;
     width: 180px;
     padding: 3px;
   }
-
   #head1o2 {
     visibility: hidden;
   }
-
   #head2o2 {
     visibility: hidden;
   }
@@ -692,3 +661,5 @@ footer {
   display: none;
   font-family: monospace;
 }
+
+/*# sourceMappingURL=style.css.map */
