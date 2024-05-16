@@ -4,16 +4,17 @@ layout: homepage
 
 ## About Me
 
-Hi, my name is Ka I (pronounced "e") Chan, a Master's student in [Data Science and Information Technology](https://gix.tsinghua.edu.cn/en/) at Tsinghua University, gratefully advised by Prof. [Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en) and Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/). Previously, I graduated magna cum laude from Tsinghua University with a B.S. in [Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/).
+Hi, my name is Ka I (pronounced "e") Chan, a Master's student in [Data Science and Information Technology](https://gix.tsinghua.edu.cn/en/) at Tsinghua University. I am grateful to be advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en) and [Prof. Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/). 
+I have also been fortunate to work with [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/), [Prof. Saeed Abdullah](https://saeedabdullah.com/), and [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/en/info/1046/1477.htm). 
+Previously, I graduated magna cum laude from Tsinghua University with a B.S. in [Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/).
 
-I am fortunate to have been advised by [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/), Prof. [Saeed Abdullah](https://saeedabdullah.com/), [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/en/info/1046/1477.htm). 
+My research interests lie at the intersection of HCI, health and wellbeing, aging and accessibility. I focus on understanding the needs and challenges of vulnerable and marginalized populations and on designing and building systems to empower and enhance their quality of life. 
 
-My research interest lies in **human-computer interaction (HCI)**, with a specific focus on **health, wellbeing, aging and accessibility**. My research goal is to understand people's needs and challenges, particularly among vulnerable populations, and to design and develop AI-driven systems that empower and enhance people's health and wellbeing.
+In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band.
 
-
-In my daily life, I have a strong interest in various sports, with powerlifting being a particular focus. I am also passionate about music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band.
 
 {% include_relative _includes/projects.md %}
+
 
 <!-- ## Collaboration -->
 
