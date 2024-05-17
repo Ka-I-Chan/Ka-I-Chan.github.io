@@ -16,7 +16,7 @@ In my daily life, I enjoy various sports and have a passion on music. I used to 
 {% include_relative _includes/projects.md %}
 
 
-<!-- {% include_relative _includes/publication.md %} -->
+<!-- {% include_relative _includes/publications.md %} -->
 
 
 <!-- ## Collaboration -->
