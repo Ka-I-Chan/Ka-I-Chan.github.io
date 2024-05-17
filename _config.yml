@@ -11,10 +11,10 @@ position: Master's student
 # affiliation_link: https://www.tsinghua.edu.cn/en/
 # subaffiliation_link: https://gix.tsinghua.edu.cn/en/
 email: ckinicola@gmail.com
-# address: Tsinghua University, Beijing 100084, China
-# address_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
-affiliation: Tsinghua University, Beijing 100084, China
-affiliation_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
+address: Tsinghua University, Haidian District, Beijing 100084, China
+address_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
+# affiliation: Tsinghua University, Beijing 100084, China
+# affiliation_link: https://maps.app.goo.gl/qwhEZoFaigz8JSmm6
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -25,9 +25,9 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets\files\KaIChan_CV.pdf
-# github_link: https://github.com/Hanchao-Zhang
-# linkedin: https://www.linkedin.com/in/ka-i-chan-655947207/
+# cv_link: assets\files\KaIChan_CV.pdf
+github_link: https://github.com/Ka-I-Chan
+linkedin: https://www.linkedin.com/in/ka-i-chan-655947207/
 # twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon)

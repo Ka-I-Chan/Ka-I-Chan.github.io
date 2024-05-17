@@ -36,13 +36,13 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CHI2024.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/CSCW2024.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/HFS.pdf">Monitoring and Grading Hemifacial Spasm in Postoperative Rehabilitation</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
-    <div class="periodical">Part of the work is under review in <em>CHI 2024</em></div>
+    <!-- <div class="periodical">Part of the work is under review in the <em>CHI 2024</em></div> -->
   </div>
 </div>
 </li>
@@ -57,7 +57,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576774">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
     <div class="author">Weiwei Zhang, Jianing Yin, <strong>Ka I Chan</strong>, and etc. </div>
-    <div class="periodical">Under review in <em>International Journal of Human Computer Studies</em></div>
+    <div class="periodical">Under review in the <em>International Journal of Human Computer Studies</em></div>
   </div>
 </div>
 </li>

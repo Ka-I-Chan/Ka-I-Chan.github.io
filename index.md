@@ -12,6 +12,8 @@ My research interests lie at the intersection of HCI, health and wellbeing, agin
 
 In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band.
 
+My CV is available [here](assets\files\KaIChan_CV.pdf). 
+
 
 {% include_relative _includes/projects.md %}
 

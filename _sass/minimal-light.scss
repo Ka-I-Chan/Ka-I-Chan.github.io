@@ -32,7 +32,7 @@ a.no-color {
   margin-right: 1rem
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .social-icons a {
     color: #b8b8b8 !important;
   }
@@ -64,7 +64,7 @@ a.no-color {
       }
      */
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   .social-icons a:last-child {
     margin-right: 0
   }
@@ -219,7 +219,7 @@ papertitle {
   font-size: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   body {
     background-color: #404040;
     color: #eee6f3;
@@ -343,7 +343,7 @@ h2 {
   font-size: 157%;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 
   h1,
   h3 {
@@ -402,7 +402,7 @@ a:hover {
   color: #330662;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   a {
     color: #ab82c5;
   }
@@ -467,7 +467,7 @@ th {
   color: #444;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   th {
     color: rgb(62, 183, 240);
   }
@@ -540,7 +540,7 @@ strong {
   font-weight: 500;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   strong {
     color: #eeeff0;
   }
