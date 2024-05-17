@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, my name is Ka I (pronounced "e") Chan, a Master's student in [Data Science and Information Technology](https://gix.tsinghua.edu.cn/en/) at GIX, Tsinghua University. I am grateful to be advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en) and [Prof. Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/). 
+Hi, my name is Ka I (pronounced "e") Chan, a Master's student in [Data Science and Information Technology](https://gix.tsinghua.edu.cn/en/) at Tsinghua University. I am grateful to be advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en) and [Prof. Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/). 
 I have also been fortunate to work with [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/), [Prof. Saeed Abdullah](https://saeedabdullah.com/), and [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/en/info/1046/1477.htm). 
 Previously, I graduated magna cum laude from Tsinghua University with a B.S. in [Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/).
 
