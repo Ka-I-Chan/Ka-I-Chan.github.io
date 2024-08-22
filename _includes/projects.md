@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Projects & Publication</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -44,7 +44,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/HFS.pdf">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
-    <div class="periodical"><a href="https://arxiv.org/abs/2406.00337"><em>arXiv, Jun. 2024.</em></a></div>
+    <div class="periodical"><em>arXiv, Jun. 2024.</em></a></div>
   </div>
 </div>
 </li>
@@ -57,9 +57,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576774">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
     <div class="author">Weiwei Zhang, Jianing Yin, <strong>Ka I Chan</strong>, and etc. </div>
-    <div class="periodical">Under review in the <em>International Journal of Human Computer Studies</em></div>
+    <div class="periodical"><em>International Journal of Human Computer Studies (2024)</em></div>
   </div>
 </div>
 </li>

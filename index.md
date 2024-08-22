@@ -8,7 +8,7 @@ Hi, my name is Ka I (pronounced "e") Chan, a Master's student in [Data Science a
 I have also been fortunate to work with [Prof. Xuhai "Orson" Xu](https://orsonxu.com/), [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/), [Prof. Saeed Abdullah](https://saeedabdullah.com/), and [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/en/info/1046/1477.htm). 
 Previously, I graduated magna cum laude from Tsinghua University with a B.S. in [Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/).
 
-My research interests lie at the intersection of HCI, health and wellbeing, aging and accessibility. I focus on understanding the needs and challenges of vulnerable and marginalized populations and on designing and building systems to empower and enhance their quality of life. 
+My research interests lie at the intersection of HCI, health and wellbeing, accessibility and aging. I focus on understanding the needs and challenges of vulnerable and marginalized populations and on designing and building systems to empower and enhance their quality of life. 
 
 In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band.
 
