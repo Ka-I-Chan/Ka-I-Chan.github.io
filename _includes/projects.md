@@ -44,7 +44,22 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/HFS.pdf">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
-    <div class="periodical"><em>arXiv, Jun. 2024.</em></a></div>
+    <div class="periodical"><em>arXiv, Jun. 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/HFS_Alg.jpg" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
+    <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng* and etc. </div>
+    <div class="periodical">Submitted to <em>IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024).</em></div>
   </div>
 </div>
 </li>
@@ -59,7 +74,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
     <div class="author">Weiwei Zhang, Jianing Yin, <strong>Ka I Chan</strong>, and etc. </div>
-    <div class="periodical"><em>International Journal of Human Computer Studies (2024)</em></div>
+    <div class="periodical"><em>International Journal of Human Computer Studies, 2024.</em></div>
   </div>
 </div>
 </li>
