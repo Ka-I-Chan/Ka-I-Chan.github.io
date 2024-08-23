@@ -42,7 +42,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/HFS.pdf">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2406.00337">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
     <div class="periodical"><em>arXiv, Jun. 2024.</em></div>
   </div>
