@@ -59,7 +59,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
-    <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc. </div>
+    <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
     <div class="periodical">Submitted to <em>IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)</em>.</div>
   </div>
 </div>

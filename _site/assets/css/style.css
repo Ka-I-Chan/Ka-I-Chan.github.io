@@ -31,14 +31,14 @@ a.no-color {
   margin-right: 1rem;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   .social-icons a {
     color: #b8b8b8 !important;
   }
 }
 .social-icons a:last-child {
   margin-right: 0;
-}
+} */
 
 .social-icons a:hover {
   background-color: transparent;
@@ -61,7 +61,7 @@ a.no-color {
         background: #337ab7;
       }
      */
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   .social-icons a:last-child {
     margin-right: 0;
   }
@@ -86,7 +86,7 @@ a.no-color {
         background: #a0b0ff;
       }
     */
-}
+} */
 .icon-button {
   background-color: white;
   border-radius: 3.6rem;
@@ -209,7 +209,7 @@ papertitle {
   font-size: 100%;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   body {
     background-color: #404040;
     color: #eee6f3;
@@ -226,7 +226,7 @@ papertitle {
   papertitle {
     color: #eeeff0;
   }
-}
+} */
 .image {
   border-radius: 0.35em;
   border: 0;
@@ -312,7 +312,7 @@ h2 {
   font-size: 157%;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   h1,
   h3 {
     font-weight: 300;
@@ -336,7 +336,7 @@ h2 {
     color: #d6d6d6;
     font-family: "Ubuntu Mono";
   }
-}
+} */
 p,
 ul,
 ol,
@@ -365,11 +365,11 @@ a:hover {
   color: #330662;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   a {
     color: #ab82c5;
   }
-}
+} */
 a small {
   font-size: 11px;
   color: #777;
@@ -428,7 +428,7 @@ dt {
 th {
   color: #444;
 }
-
+/* 
 @media (prefers-color-scheme: light) {
   th {
     color: rgb(62, 183, 240);
@@ -436,7 +436,7 @@ th {
   dt {
     color: rgb(62, 183, 240);
   }
-}
+} */
 img {
   max-width: 100%;
 }
@@ -498,11 +498,11 @@ strong {
   font-weight: 500;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   strong {
     color: #eeeff0;
   }
-}
+} */
 header ul li + li + li {
   border-right: none;
   width: 89px;
