@@ -44,7 +44,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2406.00337">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
-    <div class="periodical"><em>arXiv, Jun. 2024.</em></div>
+    <!-- <div class="periodical"><em>arXiv, Jun. 2024.</em></div> -->
+    <div class="periodical">Submitted to <em>CHI 2025</em>.</div>
   </div>
 </div>
 </li>
@@ -59,7 +60,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
     <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc. </div>
-    <div class="periodical">Submitted to <em>IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024).</em></div>
+    <div class="periodical">Submitted to <em>IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)</em>.</div>
   </div>
 </div>
 </li>
