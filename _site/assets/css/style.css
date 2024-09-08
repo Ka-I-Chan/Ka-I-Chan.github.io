@@ -70,7 +70,7 @@ a.no-color {
     color: black;
     transform: scale(1.2);
   }
-  /*
+  
     .social-icons a:after {
         content: '';
         display: block;
@@ -85,8 +85,8 @@ a.no-color {
         width: 100%;
         background: #a0b0ff;
       }
-    */
-} */
+    
+}  */
 .icon-button {
   background-color: white;
   border-radius: 3.6rem;
