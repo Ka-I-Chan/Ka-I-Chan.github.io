@@ -4,15 +4,21 @@ layout: homepage
 
 ## About Me
 
-Hi, my name is Ka I (pronounced "e") Chan, a Master's student in [Data Science and Information Technology](https://gix.tsinghua.edu.cn/en/) at Tsinghua University. I am grateful to be advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en) and [Prof. Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/). 
-I have also been fortunate to work with [Prof. Xuhai "Orson" Xu](https://orsonxu.com/), [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/), [Prof. Saeed Abdullah](https://saeedabdullah.com/), and [Prof. Jiangtao Gong](https://air.tsinghua.edu.cn/en/info/1046/1477.htm). 
-Previously, I graduated magna cum laude from Tsinghua University with a B.S. in [Psychology](https://www.psych.tsinghua.edu.cn/xlxxen/).
+Hi, my name is Ka I (pronounced "e") Chan, a Master's student in Data Science and Information Technology at Tsinghua University. I am grateful to be advised by 
+<a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en" target="_blank">Prof. Yuanchun Shi</a> and 
+<a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/" target="_blank">Prof. Yuntao Wang</a>. 
+I have also been fortunate to work with 
+<a href="https://orsonxu.com/" target="_blank">Prof. Xuhai "Orson" Xu</a>, 
+<a href="https://www.cs.cityu.edu.hk/~zhiconlu/" target="_blank">Prof. Zhicong Lu</a>, 
+<a href="https://saeedabdullah.com/" target="_blank">Prof. Saeed Abdullah</a>, and 
+<a href="https://air.tsinghua.edu.cn/en/info/1046/1477.htm" target="_blank">Prof. Jiangtao Gong</a>. 
+Previously, I graduated magna cum laude from Tsinghua University with a B.S. in Psychology.
 
 My research interests lie at the intersection of HCI, health and wellbeing, accessibility and aging. I focus on understanding the needs and challenges of vulnerable and marginalized populations and on designing and building systems to empower and enhance their quality of life. 
 
 In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. Currently, I am self-teaching the ukulele :)
 
-My CV is available [here](assets\files\KaIChan_CV.pdf). 
+My CV is available <a href="assets/files/KaIChan_CV.pdf" target="_blank">here</a>. 
 
 <div style="color: #8B0000;">🫡 I am currently looking for HCI PhD positions for Fall 2025, please feel free to reach out!</div>
 
