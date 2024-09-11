@@ -38,11 +38,11 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CSCW2024.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/CHI2025.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2406.00337">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2406.00337" target="_blank">Hemifacial Spasm Patients' Top-Tier Medical Resource Seeking in China from an Actor-Network Perspective</a></div>
     <div class="author"><strong>Ka I Chan</strong>, Yuntao Wang, and etc. </div>
     <!-- <div class="periodical"><em>arXiv, Jun. 2024.</em></div> -->
     <div class="periodical">Submitted to <em>CHI 2025</em>.</div>
@@ -58,7 +58,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
+    <div class="title"><a href="assets/img/HFS_Alg.jpg" target="_blank">Automated Grading Hemifacial Spasm Using Smartphone Camera</a></div>
     <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
     <div class="periodical">Submitted to <em>IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)</em>.</div>
   </div>
@@ -73,7 +73,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345" target="_blank">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
     <div class="author">Weiwei Zhang, Jianing Yin, <strong>Ka I Chan</strong>, and etc. </div>
     <div class="periodical"><em>International Journal of Human Computer Studies, 2024.</em></div>
   </div>
@@ -88,7 +88,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/Lookine.pdf">Lookine: Non-Verbal Social Assistance and Learning System for Blind People</a></div>
+    <div class="title"><a href="assets/files/Lookine.pdf" target="_blank">Lookine: Non-Verbal Social Assistance and Learning System for Blind People</a></div>
     <div>Lookine aims to help blind individuals in social interactions through voice interaction and visual recognition technology.
 </div>
   </div>
@@ -103,7 +103,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/LED.pdf">Impact of LED Masks on People’s Communication</a></div>
+    <div class="title"><a href="assets/files/LED.pdf" target="_blank">Impact of LED Masks on People’s Communication</a></div>
     <div>Explored correlation between LED mask usage and improved daily communication effectiveness, aiming to support individuals with hearing impairments. 
 </div>
   </div>
