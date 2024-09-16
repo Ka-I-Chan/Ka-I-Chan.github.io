@@ -14,7 +14,7 @@ I have also been fortunate to work with
 <a href="https://air.tsinghua.edu.cn/en/info/1046/1477.htm" target="_blank">Prof. Jiangtao Gong</a>. 
 Previously, I graduated magna cum laude from Tsinghua University with a B.S. in Psychology.
 
-My research interests lie at the intersection of HCI, health and wellbeing, accessibility and aging. I focus on understanding the needs and challenges of vulnerable and marginalized populations and on designing and building systems to empower and enhance their quality of life. 
+My research interests lie at the intersection of HCI, health and wellbeing, accessibility and aging. I focus on understanding the needs and challenges of vulnerable and marginalized populations, and on designing and developing applications and interventions that empower these groups, enhancing their quality of life and improving overall health outcomes. 
 
 In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. Currently, I am self-teaching the ukulele :)
 
