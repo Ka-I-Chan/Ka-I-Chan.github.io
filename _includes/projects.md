@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/img/HFS_Alg.jpg" target="_blank">Automated Grading Hemifacial Spasm Using Smartphone Camera</a></div>
     <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
-    <div class="periodical">Submitted to <em>IEEE International Conference on Ubiquitous Intelligence and Computing (UIC) 2024</em>.</div>
+    <div class="periodical"><em>The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2024).</em></div>
   </div>
 </div>
 </li>
