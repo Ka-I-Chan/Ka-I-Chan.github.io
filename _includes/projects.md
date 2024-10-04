@@ -42,7 +42,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/img/HFS_Qual_1.png" target="_blank">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</a></div>
+    <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
     <div class="author"><strong>Ka I Chan</strong>, and etc. </div>
     <div class="periodical">Submitted to <em>CHI 2025</em>.</div>
   </div>
@@ -57,7 +57,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/img/HFS_Alg.jpg" target="_blank">Automated Grading Hemifacial Spasm Using Smartphone Camera</a></div>
+    <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
     <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
     <div class="periodical"><em>The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2024).</em></div>
   </div>
