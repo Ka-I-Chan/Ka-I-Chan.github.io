@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About Me 
 
 Hi, my name is Ka I (pronounced "e") Chan, a Master's student in Data Science and Information Technology at Tsinghua University. I am grateful to be advised by 
 <a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en" target="_blank">Prof. Yuanchun Shi</a> and 
