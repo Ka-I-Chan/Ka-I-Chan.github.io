@@ -6,7 +6,8 @@ layout: homepage
 
 Hi, my name is Ka I (pronounced "e") Chan, a Master's student in Data Science and Information Technology at Tsinghua University. I am grateful to be advised by 
 <a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=en" target="_blank">Prof. Yuanchun Shi</a> and 
-<a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/" target="_blank">Prof. Yuntao Wang</a>. 
+<a href="https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/en/" target="_blank">Prof. Yuntao Wang</a> at the 
+<a href="https://pi.cs.tsinghua.edu.cn/" target="_blank">Pervasive Interaction (PI) Lab</a>. 
 I have also been fortunate to work with 
 <a href="https://orsonxu.com/" target="_blank">Prof. Xuhai "Orson" Xu</a>, 
 <a href="https://www.cs.cityu.edu.hk/~zhiconlu/" target="_blank">Prof. Zhicong Lu</a>, 
@@ -14,13 +15,13 @@ I have also been fortunate to work with
 <a href="https://air.tsinghua.edu.cn/en/info/1046/1477.htm" target="_blank">Prof. Jiangtao Gong</a>. 
 Previously, I graduated magna cum laude from Tsinghua University with a B.S. in Psychology.
 
-My research interests lie at the intersection of HCI, health and wellbeing, accessibility and aging. I focus on understanding the needs and challenges of vulnerable and marginalized populations, and on designing and developing applications and interventions that empower these groups, enhancing their quality of life and improving overall health outcomes. 
+My research interests lie at the intersection of Human-Computer Interaction (HCI), health and wellbeing, accessibility and aging. I am passionate about understanding the practices, behaviors and needs of vulnerable and marginalized populations. My goal is to design, develop, and deploy AI/ML systems, applications, and interventions that empower these groups, enhancing health equity and overall wellbeing. 
 
 In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. Currently, I am self-teaching the ukulele :)
 
 My CV is available <a href="assets/files/KaIChan_CV.pdf" target="_blank">here</a>. 
 
-<div style="color: #8B0000;">🫡 I am currently looking for HCI PhD positions for Fall 2025, please feel free to reach out!</div>
+<div style="color: #8B0000;">🫡 I am actively looking for HCI PhD positions for Fall 2025, please feel free to reach out!</div>
 
 <br>
 

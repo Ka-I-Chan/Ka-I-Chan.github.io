@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Projects & Publication</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Projects & Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -43,8 +43,9 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
-    <div class="author"><strong>Ka I Chan</strong>, and etc. </div>
-    <div class="periodical">Submitted to <em>CHI 2025</em>.</div>
+    <div class="author"><strong><u>Ka I Chan</u></strong>, Siying Hu, Yuntao Wang, Xuhai “Orson” Xu, and etc. </div>
+    <!-- <div class="periodical">Submitted to <em>CHI 2025</em>.</div> -->
+    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Under Review)</i></div>
   </div>
 </div>
 </li>
@@ -58,8 +59,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
-    <div class="author"><strong>Ka I Chan*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
-    <div class="periodical"><em>The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2024).</em></div>
+    <div class="author"><strong><u>Ka I Chan</u>*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
+    <div class="periodical"><i><b>IEEE UIC 2024</b> - The 21st IEEE International Conference on Ubiquitous Intelligence and Computing</i></div>
   </div>
 </div>
 </li>
@@ -73,11 +74,26 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345" target="_blank">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
-    <div class="author">Weiwei Zhang, Jianing Yin, <strong>Ka I Chan</strong>, and etc. </div>
-    <div class="periodical"><em>International Journal of Human Computer Studies, 2024.</em></div>
+    <div class="author">Weiwei Zhang, Jianing Yin, <strong><u>Ka I Chan</u></strong>, and etc. </div>
+    <div class="periodical"><i><b>IJHCS 2024</b> - International Journal of Human Computer Studies</i></div>
   </div>
 </div>
 </li>
+
+<!-- <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/npj_AI.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Human and Algorithmic Visual Attention in Driving Task</div>
+    <div class="author">Chen Zheng, Pengfei Li, Bu Jin, Shanhe You, <strong><u>Ka I Chan</u></strong>, and etc. </div>
+    <div class="periodical"><i><b>npj Artificial Intelligence</b> (Under Review)</i></div>
+  </div>
+</div>
+</li> -->
 
 <li>
 <div class="pub-row">
