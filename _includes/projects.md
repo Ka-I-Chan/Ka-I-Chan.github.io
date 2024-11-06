@@ -45,7 +45,7 @@
     <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
     <div class="author"><strong><u>Ka I Chan</u></strong>, Siying Hu, Yuntao Wang, Xuhai “Orson” Xu, and etc. </div>
     <!-- <div class="periodical">Submitted to <em>CHI 2025</em>.</div> -->
-    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Under Review)</i></div>
+    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Under Revise & Resubmit)</i></div>
   </div>
 </div>
 </li>
