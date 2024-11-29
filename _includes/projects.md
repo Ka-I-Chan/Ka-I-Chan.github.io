@@ -43,7 +43,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
-    <div class="author"><strong><u>Ka I Chan</u></strong>, Siying Hu, Yuntao Wang, Xuhai “Orson” Xu, and etc. </div>
+    <div class="author"><strong><u>Ka I Chan</u></strong>, Siying Hu, Yuntao Wang, Xuhai “Orson” Xu, et al. </div>
     <!-- <div class="periodical">Submitted to <em>CHI 2025</em>.</div> -->
     <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Under Revise & Resubmit)</i></div>
   </div>
@@ -59,7 +59,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
-    <div class="author"><strong><u>Ka I Chan</u>*</strong>, Bo Hei*, Linghao Meng*, and etc.</div>
+    <div class="author"><strong><u>Ka I Chan</u>*</strong>, Bo Hei*, Linghao Meng*, et al.</div>
     <div class="periodical"><i><b>IEEE UIC 2024</b> - The 21st IEEE International Conference on Ubiquitous Intelligence and Computing</i></div>
   </div>
 </div>
@@ -74,7 +74,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345" target="_blank">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
-    <div class="author">Weiwei Zhang, Jianing Yin, <strong><u>Ka I Chan</u></strong>, and etc. </div>
+    <div class="author">Weiwei Zhang, Jianing Yin, <strong><u>Ka I Chan</u></strong>, et al. </div>
     <div class="periodical"><i><b>IJHCS 2024</b> - International Journal of Human Computer Studies</i></div>
   </div>
 </div>
