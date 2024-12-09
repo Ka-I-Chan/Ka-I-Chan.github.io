@@ -43,8 +43,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
-    <div class="author"><strong><u>Ka I Chan</u></strong>, Siying Hu, Yuntao Wang, Xuhai “Orson” Xu, et al. </div>
-    <!-- <div class="periodical">Submitted to <em>CHI 2025</em>.</div> -->
+    <div class="author"><strong><u>Ka I Chan</u></strong>, et al. </div>
     <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Under Revise & Resubmit)</i></div>
   </div>
 </div>
@@ -58,7 +57,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
+    <div class="title"><a href="assets/files/UIC2024_Automated Grading Hemifacial Spasm Using Smartphone Cameras.pdf" target="_blank">Automated Grading Hemifacial Spasm Using Smartphone Camera</a></div>
     <div class="author"><strong><u>Ka I Chan</u>*</strong>, Bo Hei*, Linghao Meng*, et al.</div>
     <div class="periodical"><i><b>IEEE UIC 2024</b> - The 21st IEEE International Conference on Ubiquitous Intelligence and Computing</i></div>
   </div>
@@ -134,7 +133,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/Color.pdf" target="_blank">Influence of Environmental Color on Taste Perception</a></div>
-    <div>Explored intermodal perception of vision and taste, aiding individuals with eating disorders in forming healthy diets. Received the second-largest funding from <em>Tsinghua Student Research Plan</em>.
+    <div>Explored intermodal perception of vision and taste, aiding individuals with eating disorders in forming healthy diets. Received the second-largest grant from <em>Tsinghua University Initiative Scientific Research Program</em>.
     </div>
   </div>
 </div>

@@ -17,7 +17,7 @@ Previously, I graduated magna cum laude from Tsinghua University with a B.S. in 
 
 My research interests lie at the intersection of Human-Computer Interaction (HCI), health and well-being, accessibility and aging. I am passionate about understanding the practices, behaviors and needs of vulnerable and marginalized populations. My goal is to design, develop, and deploy AI/ML systems, applications, and interventions that empower these groups, enhancing health equity and overall well-being. 
 
-In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. Currently, I am self-teaching the ukulele :)
+In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. Currently, I am breaking my personal record of (one) pull-up :)
 
 My CV is available <a href="assets/files/KaIChan_CV.pdf" target="_blank">here</a>. 
 
@@ -48,6 +48,7 @@ My CV is available <a href="assets/files/KaIChan_CV.pdf" target="_blank">here</a
 - **[Nov. 2022]** Ministry of Education Second Class Scholarship for Hong Kong, Macau and Overseas Chinese Students
 - **[Jun. 2022]** Excellent Graduates of Tsinghua University
 - **[Oct. 2021]** Award of Excellence in Academic Performance at Tsinghua University
+- **[May. 2021]** Tsinghua University Initiative Scientific Research Program ($4,700 USD grant)
 - **[Dec. 2020]** Macau Foundation Special Scholarship for Outstanding Academic Performance
 - **[Oct. 2020]** Ministry of Education First Class Scholarship for Hong Kong, Macau and Overseas Chinese Students at Tsinghua University
 - **[Dec. 2018 & 2021]** Macau Education Bureau College Scholarship
