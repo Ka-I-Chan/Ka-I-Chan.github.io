@@ -44,7 +44,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
     <div class="author"><strong><u>Ka I Chan</u></strong>, et al. </div>
-    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Under Revise & Resubmit)</i></div>
+    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Conditionally Accepted)</i></div>
   </div>
 </div>
 </li>
