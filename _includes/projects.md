@@ -1,8 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Projects & Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -25px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
-
+<p>* denotes equal contribution.</p>
 
 <!-- <li>
 <div class="pub-row">
@@ -34,50 +34,52 @@
 
 
 
-<li>
+<li style="margin: 2px 0px 10px;">
 <div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/HFS_Qual_1.png" class="teaser img-fluid z-depth-1">
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Top-Tier Medical Resource Seeking for Specialized Disorder in China from an Actor-Network Perspective</div>
-    <div class="author"><strong><u>Ka I Chan</u></strong>, et al. </div>
-    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems (Conditionally Accepted)</i></div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">The Odyssey Journey: Top-Tier Medical Resource Seeking for Specialized Disorder in China</div>
+    <div class="author"><strong><u>Ka I Chan</u></strong>, Siying Hu, Yuntao Wang, Xuhai Xu, Zhicong Lu, and Yuanchun Shi</div>
+    <div class="periodical"><i><b>CHI 2025</b> - ACM CHI Conference on Human Factors in Computing Systems</i></div>
+    <div class="links">
+      <a href="assets/files/chi25-232.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2406.00337" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+    </div>
   </div>
 </div>
 </li>
 
-<li>
+<li style="margin: 2px 0px 25px;">
 <div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/HFS_Alg.jpg" class="teaser img-fluid z-depth-1">
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/UIC2024_Automated Grading Hemifacial Spasm Using Smartphone Cameras.pdf" target="_blank">Automated Grading Hemifacial Spasm Using Smartphone Camera</a></div>
-    <div class="author"><strong><u>Ka I Chan</u>*</strong>, Bo Hei*, Linghao Meng*, et al.</div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">Automated Grading Hemifacial Spasm Using Smartphone Camera</div>
+    <div class="author"><strong><u>Ka I Chan</u>*</strong>, Bo Hei*, Linghao Meng*, Ruen Liu, Yuntao Wang, Chang Chen, Qingpei Hao, and Yuanchun Shi</div>
     <div class="periodical"><i><b>IEEE UIC 2024</b> - The 21st IEEE International Conference on Ubiquitous Intelligence and Computing</i></div>
+    <div class="links">
+      <a href="assets/files/UIC2024-Automated Grading Hemifacial Spasm Using Smartphone Cameras.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
   </div>
 </div>
 </li>
 
-<li>
+<li style="margin: 2px 0px 10px;">
 <div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/IJHCS2023.png" class="teaser img-fluid z-depth-1">
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1016/j.ijhcs.2024.103345" target="_blank">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</a></div>
-    <div class="author">Weiwei Zhang, Jianing Yin, <strong><u>Ka I Chan</u></strong>, et al. </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">Beyond Digital Privacy: Uncovering Deeper Attitudes toward Privacy in Home Camera among Older Adults</div>
+    <div class="author">Weiwei Zhang, Jianing Yin, <strong><u>Ka I Chan</u></strong>, Jihong Jeung, Tongxin Sun, TongtongJin, and Jiangtao Gong</div>
     <div class="periodical"><i><b>IJHCS 2024</b> - International Journal of Human Computer Studies</i></div>
+    <div class="links">
+      <a href="assets/files/IJHCS2024-Beyond Digital Privacy.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1016/j.ijhcs.2024.103345" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+    </div>
   </div>
 </div>
 </li>
+
+</ol>
+</div>
+
+
+
 
 <!-- <li>
 <div class="pub-row">
@@ -94,7 +96,7 @@
 </div>
 </li> -->
 
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -107,9 +109,9 @@
 </div>
   </div>
 </div>
-</li>
+</li> -->
 
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -122,9 +124,9 @@
 </div>
   </div>
 </div>
-</li>
+</li> -->
 
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -137,9 +139,4 @@
     </div>
   </div>
 </div>
-</li>
-
-<br>
-
-</ol>
-</div>
+</li> -->

@@ -15,33 +15,19 @@ I have also been fortunate to work with
 <a href="https://air.tsinghua.edu.cn/en/info/1046/1477.htm" target="_blank">Prof. Jiangtao Gong</a>. 
 Previously, I graduated magna cum laude from Tsinghua University with a B.S. in Psychology.
 
-My research interests lie at the intersection of Human-Computer Interaction (HCI), health and well-being, accessibility and aging. I am passionate about understanding the practices, behaviors and needs of vulnerable and marginalized populations. My goal is to design, develop, and deploy AI/ML systems, applications, and interventions that empower these groups, enhancing health equity and overall well-being. 
+My research interests lie at the intersection of human-computer interaction (HCI) and health informatics. I am passionate about understanding the practices, behaviors and needs of vulnerable and marginalized populations. My goal is to design, develop, and deploy AI/ML systems, applications, and interventions that empower these groups, enhancing overall health and well-being. 
 
-In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. Currently, I am breaking my personal record of (one) pull-up :)
+In my daily life, I enjoy various sports and have a passion on music. I used to play the piano and guitar and was a percussion member of the Tsinghua University Symphonic Band. 
 
 My CV is available <a href="assets/files/KaIChan_CV.pdf" target="_blank">here</a>. 
-
-<div style="color: #8B0000;">🫡 I am actively looking for HCI PhD positions for Fall 2025, please feel free to reach out!</div>
-
+<!-- <div style="color: #8B0000;">🫡 I am actively looking for HCI PhD positions for Fall 2025, please feel free to reach out!</div> -->
 <br>
+
 
 {% include_relative _includes/projects.md %}
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-
-<!-- ## Collaboration -->
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-<!-- - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**.
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. -->
-
-
-## Awards & Honors
+## Honors & Awards
 - **[Oct. 2024]** Ministry of Education First Class Scholarship for Hong Kong, Macao, Overseas Chinese, and Taiwan Students
 - **[Dec. 2023 & 2024]** Macau Education Bureau College Scholarship
 - **[Nov. 2023]** Tsinghua Friends - National Energy Talent Scholarship
