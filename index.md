@@ -27,7 +27,7 @@ My CV is available <a href="assets/files/KaIChan_CV.pdf" target="_blank">here</a
 {% include_relative _includes/projects.md %}
 
 
-## Honors & Awards
+## Awards & Honors
 - **[Oct. 2024]** Ministry of Education First Class Scholarship for Hong Kong, Macao, Overseas Chinese, and Taiwan Students
 - **[Dec. 2023 & 2024]** Macau Education Bureau College Scholarship
 - **[Nov. 2023]** Tsinghua Friends - National Energy Talent Scholarship
