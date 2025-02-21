@@ -13,7 +13,7 @@ I have also been fortunate to work with
 <a href="https://www.cs.cityu.edu.hk/~zhiconlu/" target="_blank">Prof. Zhicong Lu</a>, 
 <a href="https://saeedabdullah.com/" target="_blank">Prof. Saeed Abdullah</a>, and 
 <a href="https://air.tsinghua.edu.cn/en/info/1046/1477.htm" target="_blank">Prof. Jiangtao Gong</a>. 
-Previously, I graduated magna cum laude from Tsinghua University with a B.S. in Psychology.
+Previously, I graduated from Tsinghua University with a B.S. in Psychology.
 
 My research interests lie at the intersection of human-computer interaction (HCI) and health informatics. I am passionate about understanding the practices, behaviors and needs of vulnerable and marginalized populations. My goal is to design, develop, and deploy AI/ML systems, applications, and interventions that empower these groups, enhancing overall health and well-being. 
 
